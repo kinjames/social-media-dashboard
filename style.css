@@ -66,7 +66,7 @@ h2 {
 }
 
 main {
-    margin-bottom: 180px;
+    margin-bottom: 570px;
 }
 
 
@@ -157,7 +157,7 @@ main {
 
 .main {
     position: absolute;
-    left: 18%;
+    left: 14%;
     top: 20%;
 }
 
@@ -391,25 +391,5 @@ main {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { color: #fff; }
