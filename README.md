@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/pricing-component-with-toggle-kGMcxU9m8c)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-media-dashboard-rgPQirCtGJ#comment-62ce0b0a92ed2b163ef47b68)
 - Live Site URL: [Github](https://kinjames.github.io/social-media-dashboard/)
 
 ## My process
